@@ -1,2 +1,3 @@
 # hello-world
-Following the guide
+
+Hi! I'm vowzee. I'm a software developer who specializes in UWP.
